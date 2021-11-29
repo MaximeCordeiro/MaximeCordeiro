@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Contact :</h3>
 <p align="left">
-  <a href="maxime.cordeiro@epitech.eu" target="_blank" rel="noreferrer">maxime.cordeiro@epitech.eu</a>
+  <a href="mailto:maxime.cordeiro@epitech.eu" target="_blank" rel="noreferrer">maxime.cordeiro@epitech.eu</a>
 </p>
