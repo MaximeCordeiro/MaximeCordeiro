@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 </p>
 <h3 align="left">Interets :</h3>
 <p align="left">
-  -Je suis passionné par un domaine très large : Apprendre !
-    J'adore apprendre de nouvelles choses, acquérir ou confirmer toujours plus de compétences.
-    Et cela se reflète dans mon amour pour la programmation car c'est un domaine en évolution constante.<br/>
+  -Je suis passionné par un domaine très large : Apprendre !<br/>
+  &nbsp J'adore apprendre de nouvelles choses, acquérir ou confirmer toujours plus de compétences.
+  &nbsp Et cela se reflète dans mon amour pour la programmation car c'est un domaine en évolution constante.<br/>
   -Sinon j'ai un hobby très manuel, je démonte tout ce qui ne fonctionne plus pour tenter de les reparer,
-    parfois avec succes parfois non.
+  &nbsp parfois avec succes parfois non.
 </p>
 
 <h3 align="left">Languages et outils actuellement maitrisés :</h3>
