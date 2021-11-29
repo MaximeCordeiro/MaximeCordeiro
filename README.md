@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left">
   -Je suis passionné par un domaine très large : Apprendre !
     J'adore apprendre de nouvelles choses, acquérir ou confirmer toujours plus de compétences.
-    Et cela se reflète dans mon amour pour la programmation car c'est un domaine en évolution constante.
+    Et cela se reflète dans mon amour pour la programmation car c'est un domaine en évolution constante.<br/>
   -Sinon j'ai un hobby très manuel, je démonte tout ce qui ne fonctionne plus pour tenter de les reparer,
     parfois avec succes parfois non.
 </p>
